@@ -2,15 +2,14 @@
 
 gets covid19 stats in Algeria using ministry of health api 
 
-## Demo:
-   find a demo on herrokuapp  [here](https://dzcovid19.herokuapp.com/)
+
 ## Dependencies
 
     $ express
     
 ## Install
 
-    $ git clone https://ghttps://github.com/bilobom/covid19API.git
+    $ git clone https://ghttps://github.com/raedinkhaled/covidapi.git
     $ cd covid19API
     $ yarn install
     
